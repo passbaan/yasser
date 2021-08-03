@@ -1,0 +1,60 @@
+{
+  "name": "items-calcualtor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "author": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --dest docs",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node ./node_modules/vue-gh-pages/index.js"
+  },
+  "homepage": "https://github.com/rad1c4l/yasser_project",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10",
+    "uuid": "^8.3.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.2",
+    "vue2-dropzone": "^3.6.0",
+    "vuex": "^3.6.2",
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-gh-pages": "^1.19.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "test@1.0.0",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!"
+}
