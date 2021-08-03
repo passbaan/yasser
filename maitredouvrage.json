@@ -1,0 +1,56 @@
+{
+    "maitredouvrage": [
+        {
+            "value": "01_Monsieur",
+            "text": "01_Monsieur"
+        },
+        {
+            "value": "02_Madame",
+            "text": "02_Madame"
+        },
+        {
+            "value": "05_Société Commerciale",
+            "text": "05_Société Commerciale"
+        },
+        {
+            "value": "06_Etat",
+            "text": "06_Etat"
+        },
+        {
+            "value": "07_Collectivité Locale",
+            "text": "07_Collectivité Locale"
+        },
+        {
+            "value": "08_Etablissement Public",
+            "text": "08_Etablissement Public"
+        },
+        {
+            "value": "09_Syndic des copropriétaires",
+            "text": "09_Syndic des copropriétaires"
+        },
+        {
+            "value": "10_Association",
+            "text": "10_Association"
+        },
+        {
+            "value": "11_Ordre Professionne",
+            "text": "11_Ordre Professionne"
+        },
+        {
+            "value": "13_Coopérative",
+            "text": "13_Coopérative"
+        },
+        {
+            "value": "14_Syndicat Professionnel",
+            "text": "14_Syndicat Professionnel"
+        },
+        {
+            "value": "15_Habous",
+            "text": "15_Habous"
+        },
+        {
+            "value": "17_Groupements d'Intérêt Economique",
+            "text": "17_Groupements d'Intérêt Economique"
+        }
+    ]
+}
